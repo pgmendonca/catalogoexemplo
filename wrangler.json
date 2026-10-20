@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "catalogoexemplo",
+  "pages_build_output_dir": ".",
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "catalogoexemplo-db",
+    "database_id": "5877f7d2-c710-4b7c-bf9a-9e00fe1b243e"
+  }]
+}
